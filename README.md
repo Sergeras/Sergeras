@@ -17,7 +17,7 @@ Ulgamor: Dungeon Arena is an immersive game that challenges players through inte
 *Experience the thrill of battle with this preview of a fight scene in Ulgamor.*
 
 ### Boss Fight
-![Boss Fight GIF](https://github.com/Sergeras/Sergeras/assets/41525257/a089b835-a7d7-4e1c-a881-072f458e0e5c)
+![Boss Fight GIF](https://github.com/Sergeras/Sergeras/assets/41525257/3e0c3d8b-3a96-4945-a9a1-a4cbbecaedf4)
 
 *The Boss Fights in Ulgamor are not just challenging; they are epic! Here's a glimpse at one of the boss fights, showcasing the intense and rewarding gameplay mechanics I've implemented.*
 
