@@ -21,6 +21,8 @@ Ulgamor: Dungeon Arena is an immersive game that challenges players through inte
 
 *The Boss Fights in Ulgamor are not just challenging; they are epic! Here's a glimpse at one of the boss fights, showcasing the intense and rewarding gameplay mechanics I've implemented.*
 
+Demo version is available here: (https://sergeras.itch.io/dungeon-arena)
+
 ## Connect with Me
 Feel free to reach out or follow my work on [LinkedIn](https://www.linkedin.com/in/vladimir-sebesta-29753b179/). For business inquiries, please contact me directly at ajantis@centrum.cz.
 
