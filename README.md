@@ -7,15 +7,15 @@ Hello! I'm Vladimir Sebesta, a dedicated and creative freelancer currently engro
 Ulgamor: Dungeon Arena is an immersive game that challenges players through intense dungeon encounters and strategic gameplay. As the lead designer, I have focused on delivering a captivating user experience from the ground up.
 
 ### Game Menus
-![Game Menus GIF](URL_to_GIF_here)
+![Game Menus GIF](https://github.com/Sergeras/Sergeras/assets/41525257/0228b07a-561d-4c71-bc8e-ca24a1ec97e4)
 *Here's a sneak peek at the dynamic and intuitive game menus I've designed for Ulgamor. Each element is crafted to enhance the player's journey right from the start.*
 
 ### Fight Scene
-![Fight Scene GIF](URL_to_GIF_here)
+![Fight Scene GIF](https://github.com/Sergeras/Sergeras/assets/41525257/6539160e-0da5-4882-bd4d-23cee519046e)
 *Experience the thrill of battle with this preview of a fight scene in Ulgamor.*
 
 ### Boss Fight
-![Boss Fight GIF](URL_to_GIF_here)
+![Boss Fight GIF](https://github.com/Sergeras/Sergeras/assets/41525257/032713aa-42e0-473c-90cd-755221b8fbc8)
 *The Boss Fights in Ulgamor are not just challenging; they are epic! Here's a glimpse at one of the boss fights, showcasing the intense and rewarding gameplay mechanics I've implemented.*
 
 ## Connect with Me
