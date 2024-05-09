@@ -1,7 +1,7 @@
 # Welcome to My GitHub Profile!
 
 ## About Me
-Hello! I'm Vladimir Sebesta, a dedicated and creative freelancer currently engrossed in developing **Ulgamor: Dungeon Arena**. With a passion for gaming and design, I have taken on the comprehensive role of conceptualizing and crafting the visual and audio experience of Ulgamor. My expertise spans across graphics, sound design, and overall game aesthetics.
+Hello! I'm **Vladimir Sebesta**, a dedicated and creative freelancer currently engrossed in developing **Ulgamor: Dungeon Arena**. With a passion for gaming and design, I have taken on the comprehensive role of conceptualizing and crafting the visual and audio experience of Ulgamor. My expertise spans across graphics, sound design, and overall game aesthetics.
 
 ## Ulgamor: Dungeon Arena
 Ulgamor: Dungeon Arena is an immersive game that challenges players through intense dungeon encounters and strategic gameplay. As the lead designer, I have focused on delivering a captivating user experience from the ground up.
